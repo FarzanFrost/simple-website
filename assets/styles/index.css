@@ -81,7 +81,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background-color: gold;
   margin-top: 20px;
 }
 
@@ -100,4 +100,16 @@ body {
     float: none;
     width: 100%;
   }
+}
+
+div{
+  background-color: rgb(12, 105, 85);
+}
+
+.card{
+  background-color: aqua;
+}
+
+.fakeimg{
+  background-color: darkslateblue;
 }
